@@ -1,0 +1,29 @@
+pikepdf
+pillow 
+lxml
+pillow-heif
+chromadb 
+tiktoken
+"unstructured[all-docs]"
+langchain
+langchain-community 
+langchain-openai
+langchain-groq
+pymupdf
+langfuse
+
+
+# System dependencies needed for unstructured.io installation on macOS:
+# Ensure you have Homebrew installed. Then run the following commands in your terminal:
+
+## Install qpdf, required by pikepdf for PDF manipulation
+    #brew install qpdf
+
+## Install libheif and openjpeg for handling HEIF images
+    #brew install libheif openjpeg
+
+## Install pkg-config, cairo, libjpeg, libtiff, little-cms2 for image processing capabilities
+    #brew install pkg-config cairo libjpeg libtiff little-cms2
+
+## Ensure you are using Python version 3.11 or higher.
+
