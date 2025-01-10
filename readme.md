@@ -1,11 +1,11 @@
 # Multimodal Q&A Chatbot
 
-This project is a chatbot designed to answer questions about documents using a multimodal approach. It processes both text and images, allowing users to upload documents and receive informative responses. The chatbot leverages Langchain for document processing, OpenAI for natural language understanding, and Langfuse for observability and analytics.
+This project is a chatbot designed to answer questions about documents using a multimodal approach. It processes both text and images, allowing users to chat with their documents (Complex PDFs, Images). The chatbot leverages Langchain for document processing, OpenAI for natural language understanding, and Langfuse for observability and analytics.
 
 ## Features
 
 - **Multimodal Input**: Accepts both text and image inputs.
-- **Contextual Understanding**: Uses embeddings to retrieve relevant information from research papers.
+- **Contextual Understanding**: Uses embeddings to retrieve relevant information from documents.
 - **User Feedback Integration**: Collects user feedback to improve response quality. [Yet to implement]
 - **Analytics**: Integrates with Langfuse for detailed observability of user interactions.
 
@@ -39,7 +39,7 @@ Create a `.env` file in the root directory of the project with the following con
 
     EMBEDDINGS_MODEL_NAME=""
     PERSIST_DIRECTORY=""
-    TARGET_SOURCE_CHUNKS="3"
+    TARGET_SOURCE_CHUNKS=""
     SOURCE_DIRECTORY="db"
     OPENAI_API_KEY=""
     SOURCE_DIRECTORY=""
