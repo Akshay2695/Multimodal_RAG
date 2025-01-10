@@ -76,6 +76,10 @@ Open your web browser and navigate to `http://localhost:8501` to interact with t
 - [Langfuse](https://langfuse.com/)
 - [Unstructured](https://unstructured.io/)
 
+
+<img width="782" alt="image" src="https://github.com/user-attachments/assets/e14bb20e-233f-4ac6-89ef-c46a4776f9d9" />
+
+
 ---
 
 
