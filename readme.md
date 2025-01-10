@@ -77,8 +77,13 @@ Open your web browser and navigate to `http://localhost:8501` to interact with t
 - [Unstructured](https://unstructured.io/)
 
 
+##Demo Snaps. The documents over which the chat is created is stored in the data folder. It is efficiently extracting the data in PDFs and Images:
+
 <img width="782" alt="image" src="https://github.com/user-attachments/assets/e14bb20e-233f-4ac6-89ef-c46a4776f9d9" />
 
+<img width="680" alt="image" src="https://github.com/user-attachments/assets/5d392636-4ef7-4831-9ca2-ccdefa292181" />
+
+<img width="758" alt="image" src="https://github.com/user-attachments/assets/90533fb1-b003-41aa-9812-e3b37fd6c111" />
 
 ---
 
